@@ -9,7 +9,7 @@ constantly==15.1.0
 cryptography==2.8
 cssselect==1.1.0
 cycler==0.10.0
-Django==2.0.6
+Django==2.2.13
 django-redis==4.10.0
 fake-useragent==0.1.11
 HTMLParser==0.0.2
